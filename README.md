@@ -58,3 +58,37 @@ Knowledge Graph
 Idea Lineage
       ↓
 Research Assistant
+## 📸 Project Screenshots
+
+### 01. Home
+![Home](screenshots/01-home.png)
+
+### 02. Digital Archive
+![Digital Archive](screenshots/02-digital-archive.png)
+
+### 03. Ask Archive
+![Ask Archive](screenshots/03-ask-archive.png)
+
+### 04. Idea Lineage
+![Idea Lineage](screenshots/04-idea-lineage.png)
+
+### 05. Debate Explorer
+![Debate Explorer](screenshots/05-debate-explorer.png)
+
+### 06. Timeline
+![Timeline](screenshots/06-timeline.png)
+
+### 07. Knowledge Graph
+![Knowledge Graph](screenshots/07-knowledge-graph.png)
+
+### 08. OCR & Upload
+![OCR & Upload](screenshots/08-ocr-upload.png)
+
+### 09. Multilingual
+![Multilingual](screenshots/09-multilingual.png)
+
+### 10. Multimedia Archive
+![Multimedia Archive](screenshots/10-multimedia-archive.png)
+
+### 11. About
+![About](screenshots/11-about.png)
